@@ -58,7 +58,7 @@ Created comprehensive reports in Power BI.
 
 ## Data Sources
 ### Source 1
-* Name: Czechoslovakia Banks Data
+* Name: Czechoslovakia Banks Dataset
 * Description: Dataset containing information about banks in Czechoslovakia.
 
 ## Contact
