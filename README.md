@@ -11,8 +11,6 @@
 * Contributing
 * License
 * Contact
-* Project Description
-* Overview
 
 ## Project Description
 ### Overview
@@ -24,14 +22,8 @@ The goal of this project is to demonstrate the end-to-end data analysis process 
 ### Screenshots
 Include a few screenshots or a demo GIF to give a visual overview of the project. (Screenshots to be added)
 ![Bank_Report_2_SS_Page_1](https://github.com/Vivek-Tomar-9990/Czechoslovakia-Banks-Data-Analysis/assets/115417489/cdecc147-8792-4fc8-85ed-f7fe8cf0f07d)
-![Bank_Report_2_SS_Page_2](https://github.com/Vivek-Tomar-9990/Czechoslovakia-Banks-Data-Analysis/assets/115417489/20355a07-9e5f-4132-bf58-8a39c6070156)
-![Bank_Report_2_SS_Page_3](https://github.com/Vivek-Tomar-9990/Czechoslovakia-Banks-Data-Analysis/assets/115417489/90702fec-14e6-4935-82a8-0dd3d95629fc)
-![Bank_Report_2_SS_Page_4](https://github.com/Vivek-Tomar-9990/Czechoslovakia-Banks-Data-Analysis/assets/115417489/f6ceeab3-2846-451d-ac6c-97e361997f37)
 ![Bank_Report_2_SS_Page_5](https://github.com/Vivek-Tomar-9990/Czechoslovakia-Banks-Data-Analysis/assets/115417489/1e3b9d31-8560-4268-9935-9535827a488a)
 ![Bank_Report_2_SS_Page_6](https://github.com/Vivek-Tomar-9990/Czechoslovakia-Banks-Data-Analysis/assets/115417489/7a422c14-9e40-492a-8c0a-cd0460e44163)
-![Bank_Report_2_SS_Page_7](https://github.com/Vivek-Tomar-9990/Czechoslovakia-Banks-Data-Analysis/assets/115417489/a60a105a-e6db-4028-85d4-1d6c1d5782cc)
-![Bank_Report_2_SS_Page_8](https://github.com/Vivek-Tomar-9990/Czechoslovakia-Banks-Data-Analysis/assets/115417489/2fba4d21-795d-4acd-9862-75a42771e34d)
-![Bank_Report_2_SS_Page_9](https://github.com/Vivek-Tomar-9990/Czechoslovakia-Banks-Data-Analysis/assets/115417489/54d8ddb6-88df-4339-a2c6-683034592a9b)
 
 
 ## Installation
@@ -41,30 +33,6 @@ Include a few screenshots or a demo GIF to give a visual overview of the project
 * Snowflake account
 * Power BI (Desktop and Service)
 * Microsoft Excel
-
-Setup
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
-Install required dependencies:
-
-bash
-Copy code
-pip install -r requirements.txt
-Setup AWS S3 bucket and Snowflake:
-Follow the steps in the Workflow section to set up AWS S3 and Snowflake.
-
-Usage
-Basic Usage
-Explain how to use the project, focusing on the key steps such as cleaning data, uploading to AWS S3, and visualizing in Power BI.
-
-bash
-Copy code
-# Example command to run the project (if applicable)
-python main.py --input data/inputfile.csv --output results/outputfile.csv
 
 ## Workflow
 ### Step 1: Data Cleaning and Structuring
