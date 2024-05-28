@@ -8,8 +8,6 @@
 * Workflow
 * Features
 * Data Sources
-* Contributing
-* License
 * Contact
 
 ## Project Description
