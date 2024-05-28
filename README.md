@@ -23,6 +23,8 @@ The goal of this project is to demonstrate the end-to-end data analysis process 
 
 ### Screenshots
 Include a few screenshots or a demo GIF to give a visual overview of the project. (Screenshots to be added)
+![Bank_Report_2_Page_1](https://github.com/Vivek-Tomar-9990/Czechoslovakia-Banks-Data-Analysis/assets/115417489/c10f4efe-98d8-4bdd-96fa-e32c85725539)
+
 
 ## Installation
 ### Prerequisites
