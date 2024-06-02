@@ -1,5 +1,5 @@
 
-# Czechoslovakia Banks Data Analysis
+# Czechoslovakia Banks Financial Data Analysis
 
 ## Table of Contents
 * Project Description
