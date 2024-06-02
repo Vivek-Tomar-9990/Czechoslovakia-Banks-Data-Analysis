@@ -19,10 +19,9 @@ The goal of this project is to demonstrate the end-to-end data analysis process 
 
 ### Screenshots
 Include a few screenshots or a demo GIF to give a visual overview of the project. (Screenshots to be added)
-![Bank_Report_2_SS_Page_1](https://github.com/Vivek-Tomar-9990/Czechoslovakia-Banks-Data-Analysis/assets/115417489/cdecc147-8792-4fc8-85ed-f7fe8cf0f07d)
-![Bank_Report_2_SS_Page_5](https://github.com/Vivek-Tomar-9990/Czechoslovakia-Banks-Data-Analysis/assets/115417489/1e3b9d31-8560-4268-9935-9535827a488a)
-![Bank_Report_2_SS_Page_6](https://github.com/Vivek-Tomar-9990/Czechoslovakia-Banks-Data-Analysis/assets/115417489/7a422c14-9e40-492a-8c0a-cd0460e44163)
-
+![Screenshot 2024-06-02 102124](https://github.com/Vivek-Tomar-9990/Czechoslovakia-Banks-Financial-Data-Analysis/assets/115417489/0a46307f-dbcd-4c55-9379-c4fd3b957093)
+![Screenshot 2024-06-02 113530](https://github.com/Vivek-Tomar-9990/Czechoslovakia-Banks-Financial-Data-Analysis/assets/115417489/65188b1e-9fcd-4e41-a251-76b8509fb503)
+![Screenshot 2024-06-02 113748](https://github.com/Vivek-Tomar-9990/Czechoslovakia-Banks-Financial-Data-Analysis/assets/115417489/334fe7fd-d060-4dbe-a4bd-45494129a760)
 
 ## Installation
 ### Prerequisites
